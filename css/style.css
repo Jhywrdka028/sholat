@@ -1,0 +1,21 @@
+.hidden-list {
+    display: no;
+}
+
+
+.card-header {
+    background-color: rgb(57, 227, 233);
+    
+    font-weight: bold;
+}
+
+
+
+.card-list {
+    width: 50%;
+    z-index: auto;
+}
+
+body {
+    background-color: rgb(235, 250, 23);
+}
